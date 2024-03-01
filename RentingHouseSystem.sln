@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingHouseSystem", "Renti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingHouseSystem.Core", "ClassLibrary1\RentingHouseSystem.Core.csproj", "{103606F9-32CF-48F0-BF38-DF61850E020E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentingHouseSystem.Infrastructure", "RentingHouseSystem.Infrastructure\RentingHouseSystem.Infrastructure.csproj", "{8C3EB641-31E3-4C05-B558-1EE5E349994F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{103606F9-32CF-48F0-BF38-DF61850E020E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{103606F9-32CF-48F0-BF38-DF61850E020E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{103606F9-32CF-48F0-BF38-DF61850E020E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3EB641-31E3-4C05-B558-1EE5E349994F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3EB641-31E3-4C05-B558-1EE5E349994F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3EB641-31E3-4C05-B558-1EE5E349994F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3EB641-31E3-4C05-B558-1EE5E349994F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
